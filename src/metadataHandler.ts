@@ -1,6 +1,6 @@
 import { Edm } from 'odata-v4-metadata'
 import { Metadata } from './metadata'
-import * as _odatajs from 'jaydata-odatajs';
+import * as _odatajs from '@andriyf/odatajs';
 import * as extend from 'extend';
 
 export var odatajs = _odatajs;
